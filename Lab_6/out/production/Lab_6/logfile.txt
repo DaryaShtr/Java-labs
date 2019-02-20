@@ -1,0 +1,314 @@
+
+27.10.2018 13.23.19
+ShortTitle f - 1
+Branch f - 0
+Activity f - 0
+DateFoundation From 01.01.1000 to 01.01.2000 - 12
+CountEmployees From 2 to 3 - 0
+
+27.10.2018 13.23.54
+ShortTitle f - 1
+Branch f - 0
+Activity f - 0
+DateFoundation From 01.01.1000 to 01.01.2000 - 12
+CountEmployees From 2 to 3 - 0
+
+27.10.2018 13.25.50
+ShortTitle f - 1
+Branch f - 0
+Activity f - 0
+DateFoundation From 01.01.1000 to 01.01.2000 - 12
+CountEmployees From 2 to 4 - 0
+
+27.10.2018 13.26.10
+ShortTitle f - 1
+Branch f - 0
+Activity f - 0
+DateFoundation From 01.01.1000 to 01.10.2000 - 12
+CountEmployees From 2 to 5 - 0
+
+27.10.2018 13.33.10
+ShortTitle AAPL - 1
+Branch Service - 10
+Activity Software development - 5
+DateFoundation From 01.01.1980 to 01.01.2000 - 3
+CountEmployees From 20 to 1000 - 0
+
+27.10.2018 13.57.29
+ShortTitle f - 1
+Branch f - 0
+Activity f - 0
+DateFoundation From 01.01.1000 to 01.01.2000 - 11
+CountEmployees From 2 to 3 - 0
+
+27.10.2018 13.58.18
+ShortTitle co - 1
+Branch f - 0
+Activity f - 0
+DateFoundation From 01.01.1000 to 01.01.2000 - 11
+CountEmployees From 2 to 3 - 0
+
+27.10.2018 14.00.45
+DateFoundation From 01.01.1000 to 02.02.2000 - 11
+
+15.11.2018 00.59.19
+shortTitle CO - 0
+activity Software development - 0
+countEmployees 0 - 0
+
+15.11.2018 01.08.32
+ShortTitle CO - 1
+Activity Software development - 5
+CountEmployees 0 - 0
+
+15.11.2018 01.11.16
+ShortTitle CO - 1
+Activity Software development - 5
+CountEmployees From 2000 to 100000 - 5
+
+15.11.2018 15.38.11
+ShortTitle CO - 1
+Activity Software development - 5
+CountEmployees From 2000 to 100000 - 5
+
+15.11.2018 15.41.53
+ShortTitle AAPL - 1
+Activity Hardware development - 1
+java.lang.Exception: Incorrect bounds of range
+Unsuccessful writing in src\requests\requests3.xml
+Unsuccessful writing in src\requests\requests3.json
+
+17.11.2018 13.54.09
+ShortTitle AAPL - 1
+Activity Hardware development - 1
+java.lang.Exception: Incorrect bounds of range
+Unsuccessful writing in src\requests\requests3.xml
+Unsuccessful writing in src\requests\requests3.json
+
+17.11.2018 13.55.02
+ShortTitle AAPL - 1
+Activity Hardware development - 1
+CountEmployees From 500 to 2000 - 0
+
+17.11.2018 13.55.50
+ShortTitle AAPL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+17.11.2018 14.18.14
+ShortTitle AAPL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+17.11.2018 14.18.58
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+17.11.2018 14.19.24
+ShortTitle AApLp - 0
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 01.33.51
+java.lang.Exception: Incorrect select
+java.lang.Exception: Incorrect select
+java.lang.Exception: Incorrect select
+Unsuccessful writing in src\requests\requests1.xml
+Unsuccessful writing in src\requests\requests2.xml
+Unsuccessful writing in src\requests\requests3.xml
+Unsuccessful writing in src\requests\requests1.json
+Unsuccessful writing in src\requests\requests2.json
+Unsuccessful writing in src\requests\requests3.json
+
+24.11.2018 01.35.22
+Shorttitle AApL - 0
+Activity Hardware development - 1
+Countemployees From 5000 to 20000 - 0
+
+24.11.2018 02.13.35
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 02.28.33
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 02.30.19
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 02.31.50
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 02.38.05
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 02.38.11
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 02.38.38
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 02.38.42
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 02.39.40
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 02.40.00
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 02.42.30
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 02.46.15
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 13.14.43
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 13.14.48
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 13.15.09
+ShortTitle AApL - 1
+Activity Hardware development - 1
+java.lang.Exception: Incorrect select
+Unsuccessful writing in src\requests\requests3.xml
+Unsuccessful writing in src\requests\requests3.json
+
+24.11.2018 13.16.06
+ShortTitle AApL - 1
+Activity Hardware development - 1
+java.lang.NumberFormatException: For input string: "500000000000000000000000"
+Unsuccessful writing in src\requests\requests3.xml
+Unsuccessful writing in src\requests\requests3.json
+
+24.11.2018 13.19.22
+ShortTitle AApL - 1
+Activity Hardware development - 1
+java.lang.Exception: Incorrect bounds of range
+Unsuccessful writing in src\requests\requests3.xml
+Unsuccessful writing in src\requests\requests3.json
+
+24.11.2018 13.20.42
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 13.32.17
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 13.35.35
+ShortTitle AApL - 1
+Activity Hardware development - 1
+java.lang.Exception: Incorrect bounds of range
+Unsuccessful writing in src\requests\requests3.xml
+Unsuccessful writing in src\requests\requests3.json
+
+24.11.2018 13.38.01
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 0 to 1 - 0
+
+24.11.2018 13.38.38
+ShortTitle AApL - 1
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+
+24.11.2018 13.40.05
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+java.lang.IndexOutOfBoundsException: Index 0 out-of-bounds for length 0
+Unsuccessful writing in src\requests\requests3.xml
+Unsuccessful writing in src\requests\requests3.json
+
+24.11.2018 13.43.32
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+java.lang.IndexOutOfBoundsException: Index 0 out-of-bounds for length 0
+Unsuccessful writing in src\requests\requests3.xml
+Unsuccessful writing in src\requests\requests3.json
+
+24.11.2018 13.45.07
+Unsuccessful writing in src\requests\requests1.xml
+Unsuccessful writing in src\requests\requests2.xml
+Unsuccessful writing in src\requests\requests3.xml
+Unsuccessful writing in src\requests\requests1.json
+Unsuccessful writing in src\requests\requests2.json
+Unsuccessful writing in src\requests\requests3.json
+
+24.11.2018 13.53.45
+Activity Hardware development - 1
+CountEmployees From 5000 to 20000 - 2
+java.lang.IndexOutOfBoundsException: Index 0 out-of-bounds for length 0
+Unsuccessful writing in src\requests\requests3.xml
+Unsuccessful writing in src\requests\requests3.json
+java.lang.NullPointerException
+java.lang.NullPointerException
+java.lang.NullPointerException
+java.lang.NullPointerException
+
+24.11.2018 22.00.49
+null null - 0
+null null - 0
+CountEmployees From 5000 to 20000 - 2
+null null - 0
+Incorrect companies name of field
+Incorrect companies name of field
+
+24.11.2018 22.02.19
+null null - 0
+null null - 0
+CountEmployees From 5000 to 20000 - 2
+Incorrect companies name of field
+Incorrect companies name of field
+
+24.11.2018 22.02.23
+null null - 0
+null null - 0
+CountEmployees From 5000 to 20000 - 2
+Incorrect companies name of field
+Incorrect companies name of field
+
+24.11.2018 22.03.17
+null null - 0
+null null - 0
+CountEmployees From 5000 to 20000 - 2
+Incorrect companies name of field
+Incorrect companies name of field
+
+24.11.2018 22.07.33
+Unrecognized select
+Unrecognized select
+CountEmployees From 5000 to 20000 - 2
+Incorrect companies name of field
+Incorrect companies name of field

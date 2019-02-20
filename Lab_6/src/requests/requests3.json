@@ -1,0 +1,30 @@
+{"All Results": [{"Companies": [
+   {
+      "Activity": "Software development",
+      "Address": "Adobe World Headquarters San Jose California U.S.",
+      "Auditor": 2300000000,
+      "Branch": "Service",
+      "CountEmployees": 17000,
+      "DateFoundation": "1982-02-28",
+      "DateUpdate": "1982-02-28",
+      "Email": "John.Warnock@adobe.com",
+      "InternetAddressOrLink": "adobe.com",
+      "Name": "Adobe Systems",
+      "Phone": "+1 234 567-89-00",
+      "ShortTitle": "ADBE"
+   },
+   {
+      "Activity": "Software development",
+      "Address": "Sunnyvale California U.S.",
+      "Auditor": 1500000000,
+      "Branch": "Service",
+      "CountEmployees": 8600,
+      "DateFoundation": "1995-01-11",
+      "DateUpdate": "1995-01-11",
+      "Email": "Jerry.Yang@yahoo.com",
+      "InternetAddressOrLink": "yahoo.com",
+      "Name": "Yahoo!",
+      "Phone": "+1 234 567-89-00",
+      "ShortTitle": "YHOO"
+   }
+]}]}

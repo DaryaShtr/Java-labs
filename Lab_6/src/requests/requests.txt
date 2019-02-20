@@ -1,0 +1,3 @@
+SELECT shorttiyytle,datefoundation from dataBase where shorttitle = 'AApL'вуу
+SELECT Email,Aciiiitivity,Branch FROM dataBase where activity = 'Hardware development'
+SELECT * FROM dataBase where countEmployees < 20000 and countEmployees > 5000

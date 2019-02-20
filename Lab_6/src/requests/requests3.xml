@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Companies>
+    <Company>
+        <Name>Adobe Systems</Name>
+        <ShortTitle>ADBE</ShortTitle>
+        <DateUpdate>1982-02-28</DateUpdate>
+        <Address>Adobe World Headquarters San Jose California U.S.</Address>
+        <DateFoundation>1982-02-28</DateFoundation>
+        <CountEmployees>17000</CountEmployees>
+        <Auditor>2300000000</Auditor>
+        <Phone>+1 234 567-89-00</Phone>
+        <Email>John.Warnock@adobe.com</Email>
+        <Branch>Service</Branch>
+        <Activity>Software development</Activity>
+        <InternetAddressOrLink>adobe.com</InternetAddressOrLink>
+    </Company>
+    <Company>
+        <Name>Yahoo!</Name>
+        <ShortTitle>YHOO</ShortTitle>
+        <DateUpdate>1995-01-11</DateUpdate>
+        <Address>Sunnyvale California U.S.</Address>
+        <DateFoundation>1995-01-11</DateFoundation>
+        <CountEmployees>8600</CountEmployees>
+        <Auditor>1500000000</Auditor>
+        <Phone>+1 234 567-89-00</Phone>
+        <Email>Jerry.Yang@yahoo.com</Email>
+        <Branch>Service</Branch>
+        <Activity>Software development</Activity>
+        <InternetAddressOrLink>yahoo.com</InternetAddressOrLink>
+    </Company>
+</Companies>
