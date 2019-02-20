@@ -1,0 +1,85 @@
+Sites :
+   https://sites.google.com/site/famcsbsu/labs/up/archive-2016 - Archive 2016 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/literatura/sql - SQL - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/home/soobseniebezzagolovka - Посмотрите раздел Литература - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/literatura/oop-ood - OOA/OOD/OOP - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/os - Операционные системы - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/lectures/bonus/bonus1 - Задача 1 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/os/list4 - Список 7 группы - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/programming/empty - Список 6 группы - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/independent-work - Самостоятельная работа - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/up/archive2015 - Archive 2015 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/os/task2 - Задание 2 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/programming/task91 - Задание 91 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/programming/list - Список 5 группы - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/system/app/pages/sitemap/hierarchy - Карта сайта - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/os/task3 - Задание 3 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/os/task4 - Задание 4 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/up/archive2017 - Archive 2017 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/os/task5 - Задание 5 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/programming/task6-1 - Контрольная работа 6 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/literatura - Литература - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs - Лабораторные работы - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/os/attendance4 - Пропуски 7 группы - FAMCS.BSU
+   http://sites.google.com/site - Google Сайты: вход в систему
+   https://sites.google.com/site/famcsbsu/practice/specialcourse - Спецкурс - FAMCS.BSU
+   https://www.jetbrains.com/idea/help/keyboard-shortcuts-you-cannot-miss.html - mastering-keyboard-shortcuts.html
+   https://sites.google.com/site/famcsbsu/materials - Материалы - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/ - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/programming/test - Контрольная работа 1 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/os/task2-5 - Задание 2.5 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/home - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/os/zadanie-1 - Задание 1 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/lectures/exam - Экзамен - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/up/literatura - Литература - FAMCS.BSU
+   http://www.sublimetext.com/ - Sublime Text - A sophisticated text editor for code, markup and prose
+   https://sites.google.com/site/famcsbsu/labs/programming/test4 - Контрольная работа 4 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/up/lecture - Лекции - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/programming/test5 - Контрольная работа 5 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/up/archive - Archive 2014 - FAMCS.BSU
+   http://www.jetbrains.com/idea/ - IntelliJ IDEA: The Java IDE for Professional Developers by JetBrains
+   https://sites.google.com/site/famcsbsu/labs/programming/test2 - Контрольная работа 2 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/programming/test3 - Контрольная работа 3 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/lectures - Лекции - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/programming/test8 - Контрольная работа 8 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/programming/test7 - Контрольная работа 7 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/lectures/bonus/task2 - Задача 2 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/lectures/bonus/task3 - Задача 3 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/system/app/pages/recentChanges - Последние действия - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/lectures/bonus/task4 - Задача 4 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/lectures/bonus/task5 - Задача 5 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/lectures/bonus/task6 - Задача 6 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/lectures/bonus/task7 - Задача 7 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/programming/task5 - Задание 5 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/lectures/exam/questions - Вопросы - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/programming/task6 - Задание 6 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/literatura/orm-hibernate - ORM (Hibernate) - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/programming/task7 - Задание 8 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/programming/task8 - Задание 9 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/voprosy-i-zadania - Вопросы и задания - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/up/tasks - Задания - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/lectures/exam/examnow - Экзамен автоматом - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/home/soobseniebezzagolovka-1 - Поздравляю с новым учебным годом!!! - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/programming/task7-1 - Задание 7 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/programming/task1 - Задание 1 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/up - Учебная практика - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/programming/task2 - Задание 2 - FAMCS.BSU
+   https://accounts.google.com/ServiceLogin?continue=https://sites.google.com/site/famcsbsu/labs/programming&amp;service=jotspot - Вход – Google Аккаунты
+   https://sites.google.com/site/famcsbsu/labs/programming/task3 - Задание 3 - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/labs/programming/task4 - Задание 4 - FAMCS.BSU
+   https://sites.google.com//www.google.com/images/icons/product/sites-16.ico - Error 404 (Not Found)!!1
+   https://sites.google.com/site/famcsbsu/literatura/html-css-javascript - HTML/CSS/Javascript - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/lectures/exam/history - Архив - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/lectures/bonus - Бонусные задачи - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/literatura/core-java - Core Java - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/home/informaciapoucebnojpraktike - Информация по учебной практике - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/lectures/bonus/rezultstask1 - Результаты - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/practice - Практические занятия - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/independent-work/exam - Экзаменационная работа УП - FAMCS.BSU
+   https://sites.google.com/site/famcsbsu/system/app/pages/reportAbuse - Report Abuse
+Files :
+   https://ssl.gstatic.com/sites/p/f57c85/system/app/images/apple-touch-icon.png - 3147 bytes
+   https://sites.google.com/site/famcsbsu/_/rsrc/1544690151000/system/app/css/camelot/allthemes-view.css - -1 bytes
+   https://sites.google.com/site/famcsbsu/_/rsrc/1544690151000/system/app/css/overlay.css?cb=solitudenavy200goog-ws-leftcontent30themedefaultstandard - -1 bytes
+   https://ssl.gstatic.com/sites/p/f57c85/system/app/themes/solitudenavy/standard-css-solitudenavy-ltr-ltr.css - -1 bytes
+   https://sites.google.com/site/famcsbsu/system/app/css/camelot/allthemes%2die.css - -1 bytes
